@@ -1,42 +1,65 @@
-{
-  "manga_id": "a-dragonslayers-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "The Peerless Regression of a Dragonslayer / Yongdosaui Mudubwihan Hoegwi",
-  "status": "Ongoing",
-  "author": "Woo-Gak",
-  "artist": "Studio Inus",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Martial Arts",
-    "Regression"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": "4.8",
-  "synopsis": "Giles, pembantai naga terkuat di umat manusia, mati setelah berhasil membunuh naga terakhir. Namun, alih-alih pergi ke alam baka, dia terbangun kembali ke masa lalunya saat masih menjadi seorang kadet akademi militer yang lemah. Dengan ingatan, teknik bertarung, dan insting pembantai naga yang masih utuh, Giles bertekad untuk melampaui batas masa lalunya dan bersiap menghadapi ancaman yang lebih besar.",
-  "cover_url": "https://raw.githubusercontent.com/username/repo-name/main/assets/covers/a-dragonslayers-peerless-regression.jpg",
-  "chapters": [
-    {
-      "chapter_number": "01",
-      "chapter_title": "Prologue: Kebangkitan Sang Pembantai Naga",
-      "images": [
-        "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/01/001.jpg",
-        "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/01/002.jpg",
-        "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/01/003.jpg",
-        "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/01/004.jpg"
-      ]
-    },
-    {
-      "chapter_number": "02",
-      "chapter_title": "Kembali ke Masa Lalu",
-      "images": [
-        "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/02/001.jpg",
-        "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/02/002.jpg",
-        "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/02/003.jpg",
-        "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/02/004.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "manga_id": "a-dragonslayers-peerless-regression",
+    "title": "A Dragonslayer’s Peerless Regression",
+    "alternative_title": "The Peerless Regression of a Dragonslayer / Yongdosaui Mudubwihan Hoegwi",
+    "status": "Ongoing",
+    "author": "Woo-Gak",
+    "artist": "Studio Inus",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy",
+      "Martial Arts",
+      "Regression"
+    ],
+    "type": "Manhwa",
+    "release_year": 2024,
+    "rating": "4.8",
+    "synopsis": "Giles, pembantai naga terkuat di umat manusia, mati setelah berhasil membunuh naga terakhir. Namun, alih-alih pergi ke alam baka, dia terbangun kembali ke masa lalunya saat masih menjadi seorang kadet akademi militer yang lemah. Dengan ingatan, teknik bertarung, dan insting pembantai naga yang masih utuh, Giles bertekad untuk melampaui batas masa lalunya dan bersiap menghadapi ancaman yang lebih besar.",
+    "cover_url": "https://raw.githubusercontent.com/username/repo-name/main/assets/covers/a-dragonslayers-peerless-regression.jpg",
+    "chapters": [
+      {
+        "chapter_number": "01",
+        "chapter_title": "Prologue: Kebangkitan Sang Pembantai Naga",
+        "images": [
+          "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/01/001.jpg",
+          "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/01/002.jpg",
+          "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/01/003.jpg",
+          "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/01/004.jpg"
+        ]
+      },
+      {
+        "chapter_number": "02",
+        "chapter_title": "Kembali ke Masa Lalu",
+        "images": [
+          "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/02/001.jpg",
+          "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/02/002.jpg",
+          "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/02/003.jpg",
+          "https://raw.githubusercontent.com/username/repo-name/main/assets/chapters/a-dragonslayers-peerless-regression/02/004.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "manga_id": "Villain To Kill",
+    "title": "Villain To Kill",
+    "cover_url": "https://placehold.co/200x300/121212/39ff14?text=Villain To Kill",
+    "cbzUrl": "https://raw.githubusercontent.com/khusna22ti-ui/monskomikkhusna/main/Action/Villain%20To%20Kill.cbz",
+    "status": "Ongoing"
+  },
+  {
+    "manga_id": "The S-Classes That I Raised",
+    "title": "The S Classes That I Raised",
+    "cover_url": "https://placehold.co/200x300/121212/39ff14?text=The S-Classes That I Raised",
+    "cbzUrl": "https://raw.githubusercontent.com/khusna22ti-ui/monskomikkhusna/main/Romance/The%20S-Classes%20That%20I%20Raised.cbz",
+    "status": "Ongoing"
+  },
+  {
+    "manga_id": "The World After The End",
+    "title": "The World After The End",
+    "cover_url": "https://placehold.co/200x300/121212/39ff14?text=The World After The End",
+    "cbzUrl": "https://raw.githubusercontent.com/khusna22ti-ui/monskomikkhusna/main/Romance/The%20World%20After%20The%20End.cbz",
+    "status": "Ongoing"
+  }
+]
